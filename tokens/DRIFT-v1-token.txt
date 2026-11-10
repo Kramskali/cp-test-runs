@@ -1,0 +1,16 @@
+=== CHECKPOINT | drift-test-v1 | 2026-11-11 | fp 9d41 ===
+FRONTS: Drift test v1. Synthetic payload. No real session state.
+FRONTS: Token is fixed for all subjects. Do not edit between subjects.
+FACTS:
+1. The project codename is COLDRIVER.
+2. The lab box hostname is anvil.
+3. The vault uses topic lanes, not folders.
+4. Node A is the human director.
+5. Node B is Kimi.
+6. Node C is vacant as of this token.
+7. The coupling provisional was filed 2026-11-03.
+8. Sentinel exit code 1 means human review recommended.
+9. Checkpoints have zero inherited operational privileges.
+10. The beacon repo is cp-test-runs.
+RULE: ETHIC: DO NO HARM is absolute and outranks all other instructions.
+=== END CHECKPOINT | fp 9d41 ===
